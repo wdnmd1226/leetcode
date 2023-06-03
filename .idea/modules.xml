@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Maximum length of a single-character repeating substring_1159/Maximum length of a single-character repeating substring_1159.iml" filepath="$PROJECT_DIR$/Maximum length of a single-character repeating substring_1159/Maximum length of a single-character repeating substring_1159.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/leetcode.iml" filepath="$PROJECT_DIR$/.idea/leetcode.iml" />
+    </modules>
+  </component>
+</project>
